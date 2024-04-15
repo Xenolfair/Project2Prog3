@@ -1,4 +1,4 @@
-# Proyecto de Programación 3 - CIAF
+# Proyecto de Programación 3 - CIAF 📚
 
 ¡Hola! Soy **Miguel Angel Ballesteros**, y este es mi proyecto para la asignatura de **Programación 3** en **CIAF**.
 
@@ -24,4 +24,4 @@ Este proyecto tiene como objetivo desarrollar una aplicación de gestión de bib
 2. Compila y ejecuta la aplicación.
 3. Sigue las instrucciones en pantalla para agregar libros, realizar préstamos y gestionar la biblioteca.
 
-¡Gracias por revisar mi proyecto!📚
+¡Gracias por revisar mi proyecto!
