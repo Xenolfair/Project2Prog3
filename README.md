@@ -1,27 +1,27 @@
-# Proyecto de Programación 3 - CIAF 📚
+# Programming 3 Project - CIAF 📚
 
-¡Hola! Soy **Miguel Angel Ballesteros**, y este es mi proyecto para la asignatura de **Programación 3** en **CIAF**.
+Hello! I'm **Miguel Angel Ballesteros**, and this is my project for the **Programming 3** course at **CIAF**.
 
-## Descripción del Proyecto
-Este proyecto tiene como objetivo desarrollar una aplicación de gestión de biblioteca. La aplicación permite registrar libros, llevar un control de préstamos y devoluciones, y gestionar la disponibilidad de los libros.
+## Project Description
+The goal of this project is to develop a library management application. The application allows users to register books, keep track of loans and returns, and manage book availability.
 
-## Funcionalidades
-- Agregar libros al inventario.
-- Control de Disponibilidad de libros.
-- Marcar libros como prestados o disponibles.
-- Registrar préstamos y devoluciones.
-- Buscar libros por título, autor o ISBN.
-- Información Detallada de la libreria.
-- Interfaz de Usuario Intuitiva.
+## Features
+- Add books to the inventory.
+- Availability control for books.
+- Mark books as borrowed or available.
+- Record loans and returns.
+- Search for books by title, author, or ISBN.
+- Detailed library information.
+- Intuitive User Interface.
 
-## Tecnologías Utilizadas
+## Technologies Used
 - Java
 - Git
 - GitHub
 
-## Instrucciones de Uso
-1. Clona este repositorio en tu máquina local.
-2. Compila y ejecuta la aplicación.
-3. Sigue las instrucciones en pantalla para agregar libros, realizar préstamos y gestionar la biblioteca.
+## Usage Instructions
+1. Clone this repository to your local machine.
+2. Compile and run the application.
+3. Follow the on-screen instructions to add books, make loans, and manage the library.
 
-¡Gracias por revisar mi proyecto!
+Thank you for reviewing my project! 📚🔍
